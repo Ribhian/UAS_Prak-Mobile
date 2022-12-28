@@ -1,3 +1,6 @@
-# **Android Pizza Restaurant**
-## by Faizal Ramadhan - 1207050034 - PPAM B
-![Frame 5](https://user-images.githubusercontent.com/69755016/209740085-306a7f44-b81e-4250-acf1-549aba1eb84f.png)
+# Restaurant
+<p>Nama : Muhammad Ribhiansyah</p>
+<p>NIM : 1207050080</p>
+<p>Kelas : Informatika D</p>
+
+![WhatsApp Image 2022-12-28 at 12 24 58](https://user-images.githubusercontent.com/101171443/209762115-358d6127-9a49-4efe-99f1-2498c8d55e47.jpg)
